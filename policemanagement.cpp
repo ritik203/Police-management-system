@@ -117,7 +117,7 @@ void mainpage()
   cout <<"\t\t\t\t";
   cout <<"Prepared By    ";
   cout <<":";
-  cout <<"  Ritik Waghamare, Shubhadra Kumari, Tushar kulwade, Tejas Badgujar ";
+  cout <<"  Ritik Waghamare ";
   cout <<"\n\n";
   cout <<"\t\t\t\t";
   cout <<"Mini Project   ";
